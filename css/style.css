@@ -1,0 +1,25 @@
+body {
+    width: 50%;
+    margin: auto;
+}
+
+
+header{
+    height: 100px;
+    background-image: url("../img/pattern.png");
+    background-size: 400px;
+    background-color: rgb(8, 151, 247);
+}
+
+.logo{
+    height: 60px;
+    margin-top: 40px;
+}
+
+h3{
+    color: lightgrey;
+}
+
+#colore_the_booleaner{
+    color: blue;
+}
