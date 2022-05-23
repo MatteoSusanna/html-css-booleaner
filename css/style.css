@@ -1,8 +1,7 @@
 body {
-    width: 50%;
+    width: 60%;
     margin: auto;
 }
-
 
 header{
     height: 100px;
@@ -17,9 +16,13 @@ header{
 }
 
 h3{
-    color: lightgrey;
+    color: rgb(156, 156, 156);
 }
 
 #colore_the_booleaner{
     color: blue;
+}
+
+.titoli_iniziali{
+    height: 150px;
 }
