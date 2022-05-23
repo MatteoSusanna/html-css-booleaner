@@ -3,11 +3,12 @@ body {
     margin: auto;
 }
 
-header{
-    height: 100px;
+
+.contenitore_logo{
     background-image: url("../img/pattern.png");
     background-size: 400px;
     background-color: rgb(8, 151, 247);
+    height: 100px;
 }
 
 .logo{
@@ -25,4 +26,48 @@ h3{
 
 .titoli_iniziali{
     height: 150px;
+}
+
+.descrizione_img{
+    font-size: 13px;
+}
+
+.evidenzia{
+    background-color: yellow;
+}
+
+.lista_puntata{
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+/*inizio tabella*/
+table{
+    border-collapse:collapse;
+}
+
+.prima_riga{
+    background-color: rgb(4, 151, 196);
+    text-align: left;
+    color: white;
+}
+
+.riga{
+    background-color: rgb(104, 193, 252);
+}
+
+.colonna{
+    text-align: center;
+    width: 280px;
+}
+
+.allineamento{
+    text-align: left;
+}
+/*fine tabella*/
+
+.footer_color{
+    color: rgb(107, 105, 105);
+    font-weight: bold;
+    font-size: 20px;
 }
