@@ -71,3 +71,19 @@ table{
     font-weight: bold;
     font-size: 20px;
 }
+
+.monitor{
+    background-image: url("../img/monitor.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 20px;
+}
+
+.grafico{
+    background-image: url("../img/graph.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 20px;
+}
